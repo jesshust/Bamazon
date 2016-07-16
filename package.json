@@ -1,0 +1,30 @@
+
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront using MySQL, the MySQL NPM Package, and the Prompt Package.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesshust/Bamazon.git"
+  },
+  "keywords": [
+    "mySQL",
+    "prompt",
+    "inquirer"
+  ],
+  "author": "Lance Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesshust/Bamazon/issues"
+  },
+  "homepage": "https://github.com/jesshust/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^1.1.2",
+    "mysql": "^2.11.1",
+    "prompt": "^1.0.0"
+  }
+}
